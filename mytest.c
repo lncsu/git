@@ -1,5 +1,8 @@
 main(void)
 {
-    unsigned char i=0;
-    i++;    
+    unsigned char j,k,i=0;
+    i++;   
+    j++; 
+    k++;
+
 }
