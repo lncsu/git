@@ -6,5 +6,6 @@ main(void)
     k++;
     abcde
     增加香蕉
+    增加橘子
 
 }
